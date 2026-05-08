@@ -1,2 +1,2 @@
 # Physics-wallah
-Here, I built a web page like PW.
+Our work, to provide globally a web page like PW just for fun.

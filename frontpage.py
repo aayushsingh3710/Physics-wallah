@@ -6,4 +6,6 @@ for i in name:
 print("@",name,b)
 print("Aayush Singh")
 print("hello world")
-      
+c="Aayush Singh"
+d=c.uppercase()
+print(d)
